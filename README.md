@@ -17,7 +17,7 @@ Questions to ask myself when reading papers (reference : [Guide to Reading Acade
 13. What key terms and concepts do I not know and need to look up in a dictionary, textbook, or ask someone?
 14. What are your thoughts on the results? Do they seem valid?
 
-Inspired from [Kweon Woo Jung](https://github.com/kweonwooj/papers)
+Inspired by [Kweon Woo Jung](https://github.com/kweonwooj/papers)
 
 
 
